@@ -1,9 +1,6 @@
-element.style {
-}
+/* Styling for masthead section */
 .masthead {
     background-image: url(https://quickpages-public.s3.us-east-2.amazonaws.com/page-images/user-80496-page-template-15-file-Header_Background_Image.jpeg);
-}
-.masthead {
     position: relative;
     padding: 80px 15px;
     color: #FFF;
@@ -18,21 +15,28 @@ element.style {
     -o-background-size: cover;
     background-size: cover;
 }
+
+/* Resetting default display for HTML5 elements */
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
     display: block;
 }
+
+/* Resetting box-sizing to border-box for all elements */
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-user agent stylesheet
+
+/* Default styling for main element */
 main {
     display: block;
     unicode-bidi: isolate;
 }
+
+/* Body styling */
 body {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif; /* Fallback fonts */
     background: #FFF;
     font-weight: 300;
     height: 100%;
@@ -40,6 +44,8 @@ body {
     padding: 0;
     color: #94a3a8;
 }
+
+/* Default body styling */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -47,20 +53,28 @@ body {
     color: #333;
     background-color: #fff;
 }
+
+/* HTML base font size */
 html {
-    font-size: 62.5%;
+    font-size: 62.5%; /* Set base font size to 10px */
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+/* Resetting font size adjustments */
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
+
+/* Resetting box-sizing for pseudo-elements */
 *:before, *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+/* Resetting box-sizing for pseudo-elements */
 *:before, *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
