@@ -32,7 +32,7 @@ It's easy to forget that behind every line of code is a human being with dreams,
 So, as you explore this landing page, I invite you to see it through the lens of "Wow, I'd like to work with a human who thinks like this!" Because behind this project is not just a collection of code, but a person with a vision and a passion for creating something truly special.
 
 ![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
-
+![Coding GIF](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)
 
 Visit the deployed site: [Portfolio Landing Page](https://master--helpful-dango-406009.netlify.app/)
 
