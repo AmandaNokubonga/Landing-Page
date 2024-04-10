@@ -3,7 +3,7 @@
 ## Introduction
 This is the landing page for the "Build your portfolio" project, completed during Week 3 of the coding bootcamp. It showcases the skills and projects of the author, Amanda Magwaza.
 
-Visit the deployed site: [Portfolio Landing Page](https://qkpage2.co/p/https_github_com_AmandaNokubonga)
+Visit the deployed site: [Portfolio Landing Page](https://master--helpful-dango-406009.netlify.app/)
 
 Read the final project blog article: [Project Blog Article](https://docs.google.com/presentation/d/1WVfhyyDRsBbuarLO1Mq1U5M9xlwD5obVZ_YsYbox6cU/edit?usp=sharing)
 
