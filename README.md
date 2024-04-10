@@ -31,7 +31,7 @@ It's easy to forget that behind every line of code is a human being with dreams,
 
 So, as you explore this landing page, I invite you to see it through the lens of "Wow, I'd like to work with a human who thinks like this!" Because behind this project is not just a collection of code, but a person with a vision and a passion for creating something truly special.
 
-![Alt text](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh)
+![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 
 Visit the deployed site: [Portfolio Landing Page](https://master--helpful-dango-406009.netlify.app/)
